@@ -1,0 +1,4 @@
+2020-05-27T16:44:14+00:00 CRITICAL Cannot redeclare envo_storefront_pingback_header() (previously declared in /opt/lampp/htdocs/os-iti/wp-content/themes/envo-storefront-child/functions.php:155) in /opt/lampp/htdocs/os-iti/wp-content/themes/envo-storefront/functions.php on line 158
+
+2020-05-27T16:45:17+00:00 CRITICAL Cannot redeclare envo_storefront_pingback_header() (previously declared in /opt/lampp/htdocs/os-iti/wp-content/themes/envo-storefront-child/functions.php:155) in /opt/lampp/htdocs/os-iti/wp-content/themes/envo-storefront/functions.php on line 158
+
